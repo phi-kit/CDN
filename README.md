@@ -1,3 +1,3 @@
-# JSON-Configurations
+# CDN
 
-- https://raw.githubusercontent.com/phi-kit/JSON-Configurations/refs/heads/main/config.json
+- https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/config.json
