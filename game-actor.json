@@ -1,0 +1,52 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Kingdom Hearts 2",
+      "genre": "Action RPG",
+      "platform": "PlayStation 2",
+      "imageUrl": "https://placehold.co/600x400/1A1A1A/44D62C?text=Kingdom+Hearts+2"
+    },
+    {
+      "id": 2,
+      "title": "Alan Wake",
+      "genre": "Action-Adventure",
+      "platform": "PC, Xbox 360",
+      "imageUrl": "https://placehold.co/600x400/1A1A1A/44D62C?text=Alan+Wake"
+    },
+    {
+      "id": 3,
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "genre": "Action-Adventure",
+      "platform": "Nintendo Switch, Wii U",
+      "imageUrl": "https://placehold.co/600x400/1A1A1A/44D62C?text=Breath+of+the+Wild"
+    },
+    {
+      "id": 4,
+      "title": "Vampire Survivors",
+      "genre": "Roguelike, Bullet Hell",
+      "platform": "PC, Xbox, Mobile",
+      "imageUrl": "https://placehold.co/600x400/1A1A1A/44D62C?text=Vampire+Survivors"
+    }
+  ],
+  "actors": [
+    {
+      "id": 1,
+      "name": "Keanu Reeves",
+      "knownFor": "The Matrix, John Wick",
+      "imageUrl": "https://placehold.co/600x400/1A1A1A/FFFFFF?text=Keanu+Reeves"
+    },
+    {
+      "id": 2,
+      "name": "Donnie Yen",
+      "knownFor": "Ip Man, Rogue One",
+      "imageUrl": "https://placehold.co/600x400/1A1A1A/FFFFFF?text=Donnie+Yen"
+    },
+    {
+      "id": 3,
+      "name": "Ana de Armas",
+      "knownFor": "Blade Runner 2049, Knives Out",
+      "imageUrl": "https://placehold.co/600x400/1A1A1A/FFFFFF?text=Ana+de+Armas"
+    }
+  ]
+}
