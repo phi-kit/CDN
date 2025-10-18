@@ -1,6 +1,27 @@
+html {
+    background-image: url('https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/content/img/sketch/vein-network.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
 body {
     font-family: 'Inter', sans-serif;
+    background-color: transparent;
 }
+
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /* This is a 60% transparent white layer. Lower the 0.6 to make the image even fainter. */
+    background-color: rgba(255, 255, 255, 0.6);
+    z-index: -1; /* Places the overlay behind the content */
+}
+
 h1 {
     font-weight: bold;
     font-size: 30px;
@@ -26,7 +47,8 @@ p {
     max-height: 50vh;
 }
 .content-card {
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
     border-radius: 0.75rem;
     padding: 1.5rem;
     box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
