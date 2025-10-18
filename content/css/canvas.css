@@ -1,6 +1,14 @@
 body {
     font-family: 'Inter', sans-serif;
 }
+h1 {
+    font-weight: bold;
+    font-size: 30px;
+    margin: 20px 0px;
+}
+p {
+    margin: 15px 0;
+}
 .qr-code {
     max-width: 100px;
     margin: 0 auto;
