@@ -1,5 +1,5 @@
 html {
-    background-image: url('https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/content/img/sketch/vein-network.jpg');
+    /*background-image: url('https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/content/img/sketch/vein-network.jpg');*/
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -47,7 +47,7 @@ p {
     max-height: 50vh;
 }
 .content-card {
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.9);
     backdrop-filter: blur(10px);
     border-radius: 0.75rem;
     padding: 1.5rem;
