@@ -1,27 +1,3 @@
-html {
-    /*background-image: url('https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/content/img/sketch/vein-network.jpg');*/
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-}
-
-body {
-    font-family: 'Inter', sans-serif;
-    background-color: rgba(73, 113, 119);
-}
-
-body::before {
-    content: '';
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    /* This is a 60% transparent white layer. Lower the 0.6 to make the image even fainter. */
-    background-color: rgba(255, 255, 255, 0.6);
-    z-index: -1; /* Places the overlay behind the content */
-}
-
 .blog-entry h1 {
     font-weight: bold;
     font-size: 30px;
