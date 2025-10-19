@@ -4,8 +4,23 @@
     margin: 20px 0px;
 }
 
+.blog-entry h2 {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.blog-entry h3 {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
 .blog-entry p {
     margin: 15px 0;
+}
+
+.blog-entry ul {
+    list-style: disc;
+    padding-left: 30px;
 }
 
 .qr-code {
