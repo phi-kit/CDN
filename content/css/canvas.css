@@ -22,14 +22,16 @@ body::before {
     z-index: -1; /* Places the overlay behind the content */
 }
 
-h1 {
+.blog-entry h1 {
     font-weight: bold;
     font-size: 30px;
     margin: 20px 0px;
 }
-p {
+
+.blog-entry p {
     margin: 15px 0;
 }
+
 .qr-code {
     max-width: 100px;
     margin: 0 auto;
