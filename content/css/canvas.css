@@ -15,10 +15,6 @@
     max-height: 50vh;
 }
 
-.card-header {
-    @apply text-2xl font-bold text-gray-900;
-}
-
 .nav-button {
     /* Sets up a 2px bottom border but makes it invisible */
     border-bottom-width: 2px;
