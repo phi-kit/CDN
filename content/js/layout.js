@@ -25,5 +25,5 @@ document.addEventListener("DOMContentLoaded", function() {
   loadComponent('https://cdn.jsdelivr.net/gh/phi-kit/CDN@v1.0.13/content/html/_navigation.html', 'navigation-placeholder');
 
   // Lead the footer
-  loadComponent('https://cdn.jsdelivr.net/gh/phi-kit/CDN@v1.0.13/content/html/_footer.html', 'footer-placeholder');
+  loadComponent('https://cdn.jsdelivr.net/gh/phi-kit/CDN@v1.0.14/content/html/_footer.html', 'footer-placeholder');
 });
