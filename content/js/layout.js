@@ -22,8 +22,8 @@ function loadComponent(url, elementId) {
 // Use DOMContentLoaded to make sure the placeholders exist before we try to fill them
 document.addEventListener("DOMContentLoaded", function() {
   // Load the header
-  loadComponent('https://cdn.jsdelivr.net/gh/phi-kit/CDN@v1.0.15/content/html/_navigation.html', 'navigation-placeholder');
+  loadComponent('https://cdn.jsdelivr.net/gh/phi-kit/CDN@v1.0.16/content/html/_navigation.html', 'navigation-placeholder');
 
   // Lead the footer
-  loadComponent('https://cdn.jsdelivr.net/gh/phi-kit/CDN@v1.0.15/content/html/_footer.html', 'footer-placeholder');
+  loadComponent('https://cdn.jsdelivr.net/gh/phi-kit/CDN@v1.0.16/content/html/_footer.html', 'footer-placeholder');
 });
