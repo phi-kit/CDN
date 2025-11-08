@@ -10,6 +10,7 @@
 
 ## Image
 
+- https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/content/img/pokemon-go-qr.jpg
 - https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/content/img/profile/20250819.jpg
 - https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/content/img/sketch/cup.jpg
 - https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/content/img/sketch/starburst-of-dawn.jpg
