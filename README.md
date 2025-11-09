@@ -6,6 +6,8 @@
 
 ## HTML
 
+- https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/content/html/_footer.html
+- https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/content/html/_navigation.html
 - https://cdn.jsdelivr.net/gh/phi-kit/CDN@v1.0.12/content/html/_navigation.html
 
 ## Image
@@ -19,6 +21,7 @@
 
 ## JS
 
+- https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/content/js/layout.js
 - https://cdn.jsdelivr.net/gh/phi-kit/CDN@v1.0.13/content/js/layout.js
 
 ## JSON
