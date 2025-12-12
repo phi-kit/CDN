@@ -14,6 +14,7 @@
 ## Image
 
 - https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/content/img/pokemon-go-qr.png
+- https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/content/img/favicon/fire.png
 - https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/content/img/red-brick-herringbone.png
 - https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/content/img/profile/20250819.jpg
 - https://cdn.jsdelivr.net/gh/phi-kit/CDN@main/content/img/sketch/cup.jpg
